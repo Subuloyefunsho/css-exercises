@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+body{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+button{
+    padding: 10px;
+    font-size: 28px;
+}
+.bgBlack{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.bgYellow{
+    background-color: yellow;
+
+}

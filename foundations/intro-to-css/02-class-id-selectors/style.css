@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+*{
+    font-family: verdana, 'Dejavu sans', sans-serif;
+}
+.odd-number{
+    background-color: rgba(255, 127, 127, 0.5);
+}
+#idTwo{
+    color: rgb(0 0 225);
+    font-size: 38px;
+}
+.odd-number.thirdElement{
+    font-size: 24px;
+}
+#idFour{
+    background-color: rgba(144, 238, 144, 0.5);
+    font-size: 24px;
+    font-weight: 700;
+}
